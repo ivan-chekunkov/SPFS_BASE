@@ -1,0 +1,9 @@
+{
+  "tics": 5,
+  "abs_in": "C:\\Projects\\SPFS_BASE\\monitoring\\ABS\\in",
+  "abs_out": "C:\\Projects\\SPFS_BASE\\monitoring\\ABS\\out",
+  "abs_error": "C:\\Projects\\SPFS_BASE\\monitoring\\ABS\\error",
+  "spfs_in": "C:\\Projects\\SPFS_BASE\\monitoring\\SPFS\\in",
+  "spfs_out": "C:\\Projects\\SPFS_BASE\\monitoring\\SPFS\\out",
+  "spfs_error": "C:\\Projects\\SPFS_BASE\\monitoring\\SPFS\\error"
+}
